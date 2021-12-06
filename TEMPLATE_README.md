@@ -56,10 +56,10 @@ Here is an example of how to embed images from your sub-folder:
 ![Directors of Top 100 Grossing Movies](./images/Top Directors Popularity TMDB.png)
 
 ### Visual 2
-![Genre of top 50 grossing movies](./images/Genre of top 50 grossing movies.png)
+![Genre of top 50 grossing movies](.dsc-project-template/images/Genre of top 50 grossing movies.png)
 
 ### Visual 3
-![Production Budget vs. Worldwide Gross](./images/Production Budget vs. Worldwide Gross.png)
+![Production Budget vs. Worldwide Gross](https://github.com/jpetoskey/dsc-project-template/blob/template-mvp/images/Production%20Budget%20vs%20Worldwide%20Gross.png)
 
 ## Conclusions
 
