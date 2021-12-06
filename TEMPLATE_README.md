@@ -53,10 +53,10 @@ However, I am less sure about the conclusion that the more studios spend on movi
 Here is an example of how to embed images from your sub-folder:
 
 ### Visual 1
-![Directors of Top 100 Grossing Movies](./images/Top Directors Popularity TMDB.png)
+![Directors of Top 100 Grossing Movies](https://github.com/jpetoskey/dsc-project-template/blob/template-mvp/images/Top%20Directors%20Popularity%20TMDB.png)
 
 ### Visual 2
-![Genre of top 50 grossing movies](dsc-project-template/images/Top Directors Popularity TMDB.png)
+![Genre of top 50 grossing movies](https://github.com/jpetoskey/dsc-project-template/blob/template-mvp/images/Histogram%20of%20top%2050%20grossing%20movies.png)
 
 ### Visual 3
 ![Production Budget vs. Worldwide Gross](https://github.com/jpetoskey/dsc-project-template/blob/template-mvp/images/Production%20Budget%20vs%20Worldwide%20Gross.png)
