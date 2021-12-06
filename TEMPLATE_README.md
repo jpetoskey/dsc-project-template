@@ -77,7 +77,7 @@ In the future, I would like to identify the best writers, most likely gathering 
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](https://github.com/jpetoskey/dsc-project-template/blob/template-mvp/Phase%201%20Project%20-%20Microsoft%20Studios%20Proposal%20-%20Jim%20Petoskey.ipynb) or our [presentation](.v1_Phase 1 Project Presentation - Microsoft Studios - Jim Petoskey.pdf).
+Please review our full analysis in [our Jupyter Notebook](https://github.com/jpetoskey/dsc-project-template/blob/template-mvp/Phase%201%20Project%20-%20Microsoft%20Studios%20Proposal%20-%20Jim%20Petoskey.ipynb) or our [presentation](https://github.com/jpetoskey/dsc-project-template/blob/template-mvp/Phase%201%20Project%20Presentation%20-%20Microsoft%20Studios%20-%20Jim%20Petoskey.pdf).
 
 For any additional questions, please contact **Jim Petoskey - Jim.Petoskey.146@gmail.com**
 
