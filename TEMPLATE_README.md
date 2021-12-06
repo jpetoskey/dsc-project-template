@@ -86,9 +86,12 @@ For any additional questions, please contact **Jim Petoskey - Jim.Petoskey.146@g
 Describe the structure of your repository and its contents, for example:
 
 ```
-├── README.md                           <- The top-level README for reviewers of this project
-├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
-├── data                                <- Both sourced externally and generated from code
-└── images                              <- Both sourced externally and generated from code
+├── README.md                             <- The top-level README for reviewers of this project
+├── Phase 1 Project - 
+    Microsoft Studios Proposal - 
+    Jim Petoskey.ipynb                    <- Narrative documentation of analysis in Jupyter notebook
+├── Phase 1 Project Presentation - 
+    Microsoft Studios - Jim Petoskey.pdf  <- PDF version of project presentation
+├── data                                  <- Both sourced externally and generated from code
+└── images                                <- Both sourced externally and generated from code
 ```
